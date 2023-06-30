@@ -1,9 +1,6 @@
 # Projeto Tópicos Especiais
  Bases utilizadas no projeto final da disciplina de Tópicos Especiais (Machine Learning).
 
-## Glass: 
-A primeira coluna possuia apenas os ids e por isso foi retirada; A última coluna era o a saída e foi movida para primeira coluna. 
-
 ## Ionosphere: 
 No dataset original, a última coluna possuia o atributo tipo g e b, foi trocada para g = 0 e b = 1.
 
@@ -30,8 +27,4 @@ Atributos:
  	11) Hue
  	12) OD280/OD315 of diluted wines
  	13) Proline            
-
-Número de Instâncias:
- class 1: 59
-	class 2: 71
-	class 3: 48
+##Parkinsons
